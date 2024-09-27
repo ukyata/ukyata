@@ -3,7 +3,7 @@
 <h4 align="center">Welcome at my profile</h4>
 
 <div align="center">
-  <img src="https://i.ibb.co/SwqF9Qr/Screenshot-20170726-121741.png" width="100%"/>
+  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif" width="100%"/>
 </div>
 
 <h2 align="center">Tecnologies</h2>
